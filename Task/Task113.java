@@ -10,7 +10,7 @@ public class Task113 {
         int check_number = 10;
         String message;
 
-        for (int i = check_number; i > 0 ; i--) {
+        for (int i = 1; i <= check_number ; i++) {
             message = (i % 2 == 0) ? i + " is even number." : i + " is odd number.";
             System.out.println(message);
         }
