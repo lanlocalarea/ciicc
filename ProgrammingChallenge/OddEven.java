@@ -19,6 +19,8 @@ public class OddEven {
         
         else 
         System.out.println(" and is Zero");
+        
+        sc.close();
     }
     
 }
