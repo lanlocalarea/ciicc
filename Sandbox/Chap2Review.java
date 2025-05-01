@@ -20,6 +20,8 @@ public class Chap2Review {
 
         for(int i = 0; i < 10; i++) {
             System.out.print(i + " ");
+            if (i == 9)
+            System.out.println();
             }    
         
 
