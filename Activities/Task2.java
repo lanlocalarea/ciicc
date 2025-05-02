@@ -13,6 +13,6 @@ public class Task2 {
         boolean i = true;
         float j = 2.0f;
 
-        System.out.println(e+""+b+""+""+d+""+c+a + " " + f + a + h + c + g + " " + j + " " + i);
+        System.out.println(e+""+b+""+d+""+""+c+""+a + " " + f + a + h + c + g + " " + j + " " + i);
     }
 }
