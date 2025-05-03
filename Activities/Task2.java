@@ -12,7 +12,8 @@ public class Task2 {
              h = 'r';
         boolean i = true;
         float j = 2.0f;
+        String output = e+""+b+""+d+""+c+""+a + " " + f + a + h + c + g + " " + j + " " + i;
 
-        System.out.println(e+""+b+""+d+""+c+""+a + " " + f + a + h + c + g + " " + j + " " + i);
+        System.out.println(output);
     }
 }
