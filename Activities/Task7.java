@@ -34,6 +34,6 @@ public class Task7 {
         System.out.println("Difference is: " + task7.difference(firstNumber, secondNumber));
         System.out.println("Product is: " + task7.product(firstNumber, secondNumber));
         System.out.println("Quotient is: " + task7.quotient(firstNumber, secondNumber));
-        
+        sc.close();
     }
 }
