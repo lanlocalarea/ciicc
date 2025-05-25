@@ -1,7 +1,5 @@
 package Activities;
 
-import java.util.Arrays;
-
 public class Task6 {
     public static void main(String[] args) {
         int[] numbers = {
