@@ -25,6 +25,6 @@ public class Task8 {
     }
     public static void main(String[] args) {
         Task8 task8 = new Task8();
-        System.out.println("Total of all Parameters: " + task8.SumOfAllParams(4,5,10));
+        System.out.println("Total of all Parameters: " + task8.SumOfAllParams(4,5,10)); // Put here positive int parameters
     }
 }
