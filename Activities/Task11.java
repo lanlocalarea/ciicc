@@ -27,8 +27,8 @@ class Book {
 
     public String toString(){
 
-        return "Title: " + this.title + "\n" +
-                "Author: " + this.author + "\n" +
+        return "Title: " + '"' + this.title + '"' + "\n" +
+                "Author: " + '"' + this.author + '"' + "\n" +
                 "Year Published: " + this.yearPublished + "\n" +
                 "Price: $" + this.price;
     }
