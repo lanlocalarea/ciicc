@@ -1,4 +1,4 @@
-package ProgrammingChallenge;
+package Sandbox;
 
 import java.util.Scanner;
 
