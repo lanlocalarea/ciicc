@@ -6,9 +6,9 @@ public class OddEven {
     public static void main(String[] args) {
         
         Scanner sc = new Scanner(System.in);
-        System.out.println("Please enter a valid number: ");
+        System.out.print("Please enter a valid number: ");
         int number = sc.nextInt();
-        String result = (number % 2 != 0) ? number + " is an Odd" : number + " is an Even number";
+        String result = (number % 2 != 0) ? number + " is an Odd number" : number + " is an Even number";
         System.out.print(result);
         
         if (number < 0 ) 
@@ -17,9 +17,11 @@ public class OddEven {
         else if (number > 0) 
             System.out.println(" and is a positive number.");
         
-        else 
+        else if (number == 0)
         System.out.println(" and is Zero");
         
+        else
+        System.out.println("Please input a valid Integer.");
         sc.close();
     }
     
