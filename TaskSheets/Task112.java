@@ -1,7 +1,7 @@
 /**
  * Change Arithmetic to Compound Operations
  */
-package Task;
+package TaskSheets;
 
 public class Task112 {
         public static void main (String[] args){

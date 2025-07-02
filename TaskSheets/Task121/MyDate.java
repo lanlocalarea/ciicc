@@ -1,6 +1,6 @@
-package Task.Task121;
+package TaskSheets.Task121;
 
-import Task.Task121.DateTask;
+import TaskSheets.Task121.DateTask;
 public class MyDate {
     public static void main(String[] args) {
         DateTask date1 = new DateTask();
