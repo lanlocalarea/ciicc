@@ -1,4 +1,4 @@
-package Sandbox;
+package ProgrammingChallenge;
 
 public class MultiplicationTable {
 
